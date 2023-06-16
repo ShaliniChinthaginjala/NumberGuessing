@@ -1,0 +1,54 @@
+.container
+{
+    height:300px;
+    width:800px;
+    margin:auto;
+    margin-top:10%;
+    border:10px solid black;
+}
+.value
+{
+   height:303px;
+   width:800px;
+   background-color:forestgreen;
+   margin-top:-3%;
+}
+h1{
+    text-align:center;
+    color: chartreuse;
+}
+h2{
+    text-align:center;
+    color:red;
+}
+p{
+    text-align:center;
+    color:white;
+    font-size:20px;
+}
+#number
+{
+    margin:auto;
+    margin-top:-18%;
+    font-size:20px;
+    color:white;
+
+
+}
+#button {
+    margin:auto;
+    margin-top:5%;
+    margin-left:45%;
+
+}
+#wait
+{
+    height:20px;
+    width:fit-content;
+    color:white;
+    
+    margin:auto;
+    margin-top:10px;
+
+
+}
